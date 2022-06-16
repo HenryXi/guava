@@ -1,4 +1,4 @@
-package iterators;
+package com.henry.guava.iterators;
 
 import com.google.common.collect.Iterators;
 

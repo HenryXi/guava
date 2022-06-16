@@ -1,3 +1,5 @@
+package com.henry.guava.caseformat;
+
 import com.google.common.base.CaseFormat;
 
 public class CaseFormatClient {

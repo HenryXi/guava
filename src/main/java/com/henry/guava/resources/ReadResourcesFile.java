@@ -1,3 +1,5 @@
+package com.henry.guava.resources;
+
 import com.google.common.io.Resources;
 
 import java.io.IOException;

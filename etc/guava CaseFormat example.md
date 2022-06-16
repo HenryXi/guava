@@ -2,7 +2,7 @@
 There are many variable names that need to be processed when writing code. Using the following tool classes can easily 
 convert variable names in various formats.
 ```java
-public class CaseFormatClient {
+public class com.henry.guava.caseformat.CaseFormatClient {
     public static void main(String[] args) {
         String lowerCamel = "lowerCamel";
         String lowerHyphen = "lower-hyphen";
