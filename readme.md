@@ -1,4 +1,6 @@
-# guava
+# Google Guava
+Google Guava is an open-source set of common libraries for Java, mainly developed by Google engineers.
+
 * [guava cache example](http://www.henryxi.com/guava-cache-example)
 * [guava read resources file](http://www.henryxi.com/guava-read-resources-file)
 * [guava BloomFilter example](http://www.henryxi.com/guava-bloomfilter-example)
